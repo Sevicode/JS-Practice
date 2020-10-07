@@ -70,7 +70,7 @@ h2 {
     font-size: 14px;
 }
 
-/* there is an outline borde in the "focus state" 
+/* there is an outline border in the "focus state" 
 to remove it we should write the bellow code */
 .form-control input:focus {
     outline: 0;
